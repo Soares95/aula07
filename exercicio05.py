@@ -1,0 +1,7 @@
+numeros=0
+A = [0] * 5
+for i in range(len(A)):
+    A = int(input("Digite um numeor multiplicador: "))
+for s in range(len(numeros)):
+    multiuplicacao
+    A * numeros[J]
